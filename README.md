@@ -259,54 +259,16 @@ The dashboard provides a single interactive view for exploring sales performance
 ---
 
 ## 📸 Dashboard Screenshots
-
-Add screenshots of the actual report pages to the `images/` folder.
-
-Recommended files:
-
-```text
-images/
-├── 01-overview.png
-├── 02-top-bottom-analysis.png
-├── 03-period-comparison.png
-├── 04-edit-interactions.png
-└── 05-order-details.png
-```
-
-Then embed them in this README, for example:
-
-```markdown
 ![Overview](images/01-overview.png)
-```
+![Top/BottomAnalysis](images/02-top-bottom-analysis.png)
+![Period Comparison](images/03-period-comparison.png)
+![Edit Interaction](images/04-edit-interactions.png)
+![Order Details](images/05-order-details.png)
 
-> Screenshots are intentionally not fabricated in this repository package. Add exports/screenshots directly from Power BI Desktop so the GitHub repository shows the actual dashboard.
+
 
 ---
 
-## 📁 Repository Structure
-
-```text
-ElectroHub-Sales-Analysis/
-│
-├── README.md
-│
-├── .gitignore
-│
-├── PowerBI/
-│   └── ElectroHub-Sales-Analysis.pbix
-│
-├── images/
-│   ├── 01-overview.png
-│   ├── 02-top-bottom-analysis.png
-│   ├── 03-period-comparison.png
-│   ├── 04-edit-interactions.png
-│   └── 05-order-details.png
-│
-└── docs/
-    ├── PROJECT_DETAILS.md
-    ├── RESUME_BULLETS.md
-    └── LINKEDIN_PROJECT.md
-```
 
 ---
 
@@ -351,7 +313,7 @@ Use a recent version of **Power BI Desktop** because the report uses the current
 
 **Tanisha Singhal**
 
-**Aspiring Data Analyst**
+**Data Analyst**
 
 `SQL` · `Power BI` · `Excel` · `Python` · `Data Analysis`
 
